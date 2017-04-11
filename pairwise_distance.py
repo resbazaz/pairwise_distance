@@ -1,7 +1,5 @@
 from __future__ import division
 from time import time
-from math import factorial
-from itertools import combinations
 import multiprocessing as mp
 
 import sklearn.datasets
